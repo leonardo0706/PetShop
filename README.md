@@ -2,8 +2,8 @@
 
 ## Integrantes: 
 
--Danilo Cezar de Carvalho Silva - 920106364
--Guilherme Paiva Flora - 920110698
+- Danilo Cezar de Carvalho Silva - 920106364
+- Guilherme Paiva Flora - 920110698
 -Guilherme Santos Silva - 920104022
 -Kauã Soares Dias - 920126951
 -Kelvin ribeiro Viegas - 920109065
