@@ -11,9 +11,3 @@
 - Miquéias Pereira de Souza - 920119075
 - Rodolfo Rodrigues Buzzone - 920112329
 - Victor Henrique Cavassani de Araújo - 920117130
-
-## Perfil no GitHub de cada integrante:
-- leonardo0706;
-- rodolfobulzzone;
-- victorcavassani;
-
