@@ -11,3 +11,4 @@
 - Miquéias Pereira de Souza - 920119075
 - Rodolfo Rodrigues Buzzone - 920112329
 - Victor Henrique Cavassani de Araújo - 920117130
+- Yasmin Vitória Silva - 3020108165
